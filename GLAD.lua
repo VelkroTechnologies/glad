@@ -11,5 +11,5 @@ project "GLAD"
     files
     {
         "include/**.h",
-        "src/**.h"
+        "src/**.c"
     }
