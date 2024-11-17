@@ -13,3 +13,8 @@ project "GLAD"
         "include/**.h",
         "src/**.c"
     }
+
+    includedirs
+    {
+        "include"
+    }
